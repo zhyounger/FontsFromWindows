@@ -13,7 +13,7 @@
 
 | 字体链接 | 提取码 |
 | :------: | :------: |
-| [仿宋](https://pan.baidu.com/s/1U7CUmTcB1Fd0Hueiek9A0Q){:target="_blank"} | uuph |
+| [仿宋](https://pan.baidu.com/s/1U7CUmTcB1Fd0Hueiek9A0Q) | uuph |
 | [黑体](https://pan.baidu.com/s/12roGUveIM9n5yCxKziQmrQ) | 87et |
 | [楷体](https://pan.baidu.com/s/1B7RumiYUsw30EEMJn70Kwg) | dfjk |
 | [宋体](https://pan.baidu.com/s/1AslV3-3hytlKsv_EBKcqPA) | sv3j |
