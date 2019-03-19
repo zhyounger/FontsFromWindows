@@ -13,18 +13,18 @@
 
 # 字体下载
 
-| 字体链接 | 提取码 |
-| :------: | :------: |
-| [仿宋](https://pan.baidu.com/s/1U7CUmTcB1Fd0Hueiek9A0Q) | uuph |
-| [黑体](https://pan.baidu.com/s/12roGUveIM9n5yCxKziQmrQ) | 87et |
-| [楷体](https://pan.baidu.com/s/1B7RumiYUsw30EEMJn70Kwg) | dfjk |
-| [宋体](https://pan.baidu.com/s/1AslV3-3hytlKsv_EBKcqPA) | sv3j |
-| [楷体_GB2312](https://pan.baidu.com/s/1IDDVuOBLcNlNlWbNOFldWg) | zhbx |
-| [仿宋_GB2312](https://pan.baidu.com/s/1U9X7JPQcfXv7pFZ-rps_PQ) | eq9t |
-| [方正小标宋简体](https://pan.baidu.com/s/1NX2uBqJWHTdVAkbFqiSO7A) | t47a |
-| [方正小标宋GBK](https://pan.baidu.com/s/1tE6fEARIhdt6IBVhkcqhHQ) | 1xfb |
-| [华文中宋](https://pan.baidu.com/s/16lm9NS1WS85xA25v-EifOQ) | gp9v |
-| [华文宋体](https://pan.baidu.com/s/1iE4ncP8_YgmhjXk7BWX8uA) | q37f |
-| [华文楷体](https://pan.baidu.com/s/1d7bMDbvi4P4CIBgrvlZTMw) | 4fgn |
-| [华文行楷](https://pan.baidu.com/s/1ya3M6gVBh1lmrrwjGOlXZg) | scs5 |
-| [华文仿宋](https://pan.baidu.com/s/1OwucFc--rVluVOWqD7vrrA) | jehn |
+| 字体网盘链接 | 网盘提取码 | 直接下载 |
+| :------: | :------: | :------: |
+| [仿宋](https://pan.baidu.com/s/1U7CUmTcB1Fd0Hueiek9A0Q) | uuph | [点击下载](https://github.com/Orient-ZY/FontsFromWindows/raw/master/fonts/%E4%BB%BF%E5%AE%8B_%E5%B8%B8%E8%A7%84.ttf) |
+| [黑体](https://pan.baidu.com/s/12roGUveIM9n5yCxKziQmrQ) | 87et | [点击下载](https://github.com/Orient-ZY/FontsFromWindows/raw/master/fonts/%E9%BB%91%E4%BD%93_%E5%B8%B8%E8%A7%84.ttf) |
+| [楷体](https://pan.baidu.com/s/1B7RumiYUsw30EEMJn70Kwg) | dfjk | [点击下载](https://github.com/Orient-ZY/FontsFromWindows/raw/master/fonts/%E6%A5%B7%E4%BD%93_%E5%B8%B8%E8%A7%84.ttf) |
+| [宋体](https://pan.baidu.com/s/1AslV3-3hytlKsv_EBKcqPA) | sv3j | [点击下载](https://github.com/Orient-ZY/FontsFromWindows/raw/master/fonts/%E5%AE%8B%E4%BD%93_%E5%B8%B8%E8%A7%84.ttc) |
+| [楷体_GB2312](https://pan.baidu.com/s/1IDDVuOBLcNlNlWbNOFldWg) | zhbx | [点击下载](https://github.com/Orient-ZY/FontsFromWindows/raw/master/fonts/Mac%E6%A5%B7%E4%BD%93GB2312.ttf) |
+| [仿宋_GB2312](https://pan.baidu.com/s/1U9X7JPQcfXv7pFZ-rps_PQ) | eq9t | [点击下载](https://github.com/Orient-ZY/FontsFromWindows/raw/master/fonts/Mac%E4%BB%BF%E5%AE%8BGB2312.ttf) |
+| [方正小标宋简体](https://pan.baidu.com/s/1NX2uBqJWHTdVAkbFqiSO7A) | t47a | [点击下载](https://github.com/Orient-ZY/FontsFromWindows/raw/master/fonts/Mac%E6%96%B9%E6%AD%A3%E5%B0%8F%E6%A0%87%E5%AE%8B%E7%AE%80%E4%BD%93.ttf) |
+| [方正小标宋GBK](https://pan.baidu.com/s/1tE6fEARIhdt6IBVhkcqhHQ) | 1xfb | [点击下载](https://github.com/Orient-ZY/FontsFromWindows/raw/master/fonts/Mac%E6%96%B9%E6%AD%A3%E5%B0%8F%E6%A0%87%E5%AE%8BGBK.ttf) |
+| [华文中宋](https://pan.baidu.com/s/16lm9NS1WS85xA25v-EifOQ) | gp9v | [点击下载](https://github.com/Orient-ZY/FontsFromWindows/raw/master/fonts/%E5%8D%8E%E6%96%87%E4%B8%AD%E5%AE%8B.TTF) |
+| [华文宋体](https://pan.baidu.com/s/1iE4ncP8_YgmhjXk7BWX8uA) | q37f | [点击下载](https://github.com/Orient-ZY/FontsFromWindows/raw/master/fonts/%E5%8D%8E%E6%96%87%E5%AE%8B%E4%BD%93.TTF) |
+| [华文楷体](https://pan.baidu.com/s/1d7bMDbvi4P4CIBgrvlZTMw) | 4fgn | [点击下载](https://github.com/Orient-ZY/FontsFromWindows/raw/master/fonts/%E5%8D%8E%E6%96%87%E6%A5%B7%E4%BD%93.TTF) |
+| [华文行楷](https://pan.baidu.com/s/1ya3M6gVBh1lmrrwjGOlXZg) | scs5 | [点击下载](https://github.com/Orient-ZY/FontsFromWindows/raw/master/fonts/%E5%8D%8E%E6%96%87%E8%A1%8C%E6%A5%B7.TTF) |
+| [华文仿宋](https://pan.baidu.com/s/1OwucFc--rVluVOWqD7vrrA) | jehn | [点击下载](https://github.com/Orient-ZY/FontsFromWindows/raw/master/fonts/%E5%8D%8E%E6%96%87%E4%BB%BF%E5%AE%8B.TTF) |
